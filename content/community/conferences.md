@@ -26,6 +26,13 @@ January 25-28 in Dornbirn, Austria
 
 [Website](http://agent.sh/)
 
+### ReactFest 2018
+March 9 in London, UK
+
+[Website](https://reactfest.com/)
+
+
+
 ### React Amsterdam 2018
 April 13 in Amsterdam, The Netherlands
 
